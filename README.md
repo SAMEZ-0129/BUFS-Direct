@@ -26,11 +26,9 @@
 
 부산외국어대학교 학생들이 자주 사용하는 사이트를 모았습니다.
 
-총 *개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
-- https://bufs.ac.kr/
-- https://eport.bufs.ac.kr/default.aspx?ReturnUrl=%2f
-- https://eclass.bufs.ac.kr/
-- https://m.bufs.ac.kr/default.aspx?ReturnUrl=%2f
+총 13개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
+- https://bufs.ac.kr/ (해당 사이트의 상위 및 하위 페이지)
+- https://github.com/
 
 
 
