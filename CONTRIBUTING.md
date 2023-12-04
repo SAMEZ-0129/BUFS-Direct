@@ -4,28 +4,17 @@
 
 ## 기여 방법
 
-### 0. 저는 타학교 학생인데 이 레포를 사용해서 우리학교용 확장앱을 만들고싶어요.
-
-- 해당 레포를 활용하여 타학교용 확장앱을 개발하시는 경우, **웨일과 크롬 확장앱 소개란 및 Github에 원작자를 표시**해주세요. 아래 내용 복사해서 작성해주시길 바랍니다.(2021/1/12 업데이트)
-
-```
-// 웨일용
-Origin Repo: https://github.com/seohyun0120/Quick-Sook
-Origin: 숙명여대 웨일 확장앱(퀵숙 Quick Sookmyung) - https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai
-
-```
-
 ### 1. issue 확인
 
-- 먼저 작업을 진행하기 전에, [이슈](https://github.com/seohyun0120/Quick-Sook/issues)목록을 확인해주세요.
-- [이슈](https://github.com/seohyun0120/Quick-Sook/issues) 목록에 있다면, 댓글을 남겨주세요. 아래 형식에 맞춰 댓글을 남겨주시면, 빠른 시간내에 확인 후, 이슈 `assign` 해드리겠습니다.
+- 먼저 작업을 진행하기 전에, [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues)목록을 확인해주세요.
+- [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues) 목록에 있다면, 댓글을 남겨주세요. 아래 형식에 맞춰 댓글을 남겨주시면, 빠른 시간내에 확인 후, 이슈 `assign` 해드리겠습니다.
 
     ```
     제가 해당 기능 개발, 수정해보겠습니다.
     작업 예상 일정: ~ 2020.10.05(예상)
     ```
 
-- [이슈](https://github.com/seohyun0120/Quick-Sook/issues) 목록에 없는 기능이라면, `New issue` 버튼을 클릭하여 이슈를 등록해주세요.
+- [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues) 목록에 없는 기능이라면, `New issue` 버튼을 클릭하여 이슈를 등록해주세요.
 
 ### 2. Pull Request
 
@@ -110,4 +99,7 @@ $ git push origin add-new-quick-button
 
 ### 3. Merge PR!
 
-여기서부터는 maintainer가 진행할 차례입니다. 코드 리뷰를 진행한 후, develop 브랜치에 merge를 하게 됩니다. develop 브랜치에 올라온 내용을 whale과 chrome에 심사를 맡긴 후, 심사가 통과되면 master 브랜치로 merge 하게 됩니다.
+여기서부터는 maintainer가 진행할 차례입니다. 코드 리뷰를 진행한 후, develop 브랜치에 merge를 하게 됩니다. develop 브랜치에 올라온 내용을 whale에 심사를 맡긴 후, 심사가 통과되면 master 브랜치로 merge 하게 됩니다.
+
+
+Origin Repo: https://github.com/seohyun0120/Quick-Sook
