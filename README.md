@@ -34,4 +34,4 @@
 
 
 
-![Preview_whale](<img src="https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/7bd76446-05ce-4729-adf7-51d1b7abfb58">)
+![Preview_whale](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/fcd6c490-2a06-47af-b682-297cd0cc4b2a")
