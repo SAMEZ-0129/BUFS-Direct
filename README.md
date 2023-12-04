@@ -31,5 +31,8 @@
 - https://github.com/
 
 
+![스샷](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/8edadf1d-b7ff-4135-86b5-f122b6c3f615)
+상기 페이지에서 원하는 사이트 클릭시
+아래처럼 해당 사이트를 **새로운 탭**에서 이동
+![Preview_whale](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/fcd6c490-2a06-47af-b682-297cd0cc4b2a") 
 
-![Preview_whale](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/fcd6c490-2a06-47af-b682-297cd0cc4b2a")
