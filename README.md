@@ -9,7 +9,7 @@
 
 **웨일브라우저**를 사용하는 **부산외대 학생**들을 위해 확장앱을 만들었습니다.
 
-- [웨일 확장앱 다운 받기]()
+- [웨일 확장앱 다운 받기]() - 배포시 해당 링크로 수정하겠습니다.
 
 ## 저작권
 
@@ -26,8 +26,12 @@
 
 부산외국어대학교 학생들이 자주 사용하는 사이트를 모았습니다.
 
-총 13개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
+총 *개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
+- https://bufs.ac.kr/
+- https://eport.bufs.ac.kr/default.aspx?ReturnUrl=%2f
+- https://eclass.bufs.ac.kr/
+- https://m.bufs.ac.kr/default.aspx?ReturnUrl=%2f
 
 
 
-![Preview_whale]()
+![Preview_whale](<img width="1881" alt="스크린샷 2023-12-04 120753" src="https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/44052e19-9941-4f57-a457-1754d7d9c417">)
