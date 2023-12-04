@@ -34,4 +34,4 @@
 
 
 
-![Preview_whale](<img width="1881" alt="스크린샷 2023-12-04 120753" src="https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/7bd76446-05ce-4729-adf7-51d1b7abfb58">)
+![Preview_whale](<img src="https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/7bd76446-05ce-4729-adf7-51d1b7abfb58">)
