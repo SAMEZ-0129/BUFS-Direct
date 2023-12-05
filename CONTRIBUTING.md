@@ -11,7 +11,7 @@
 
     ```
     제가 해당 기능 개발, 수정해보겠습니다.
-    작업 예상 일정: ~ 2020.10.05(예상)
+    작업 예상 일정: ~ 2023.12.25(예상)
     ```
 
 - [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues) 목록에 없는 기능이라면, `New issue` 버튼을 클릭하여 이슈를 등록해주세요.
@@ -102,6 +102,3 @@ $ git push origin add-new-quick-button
 여기서부터는 maintainer가 진행할 차례입니다. 코드 리뷰를 진행한 후, develop 브랜치에 merge를 하게 됩니다. develop 브랜치에 올라온 내용을 whale에 심사를 맡긴 후, 심사가 통과되면 master 브랜치로 merge 하게 됩니다.
 
 
-원작자 리포는 하기에 있습니다! 좋은 정보 감사합니다.
-
-Origin Repo: https://github.com/seohyun0120/Quick-Sook
