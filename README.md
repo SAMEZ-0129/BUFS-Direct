@@ -36,5 +36,7 @@
 상기 페이지에서 원하는 사이트 클릭시
 아래처럼 해당 사이트를 **새로운 탭**에서 이동
 
-![Preview_whale](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/fcd6c490-2a06-47af-b682-297cd0cc4b2a") 
-
+![main](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/99c994a2-398b-4e04-b7ec-3718ee9b7fc4)
+![NOMAD](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/0d776a81-6f52-4263-907c-1a24859a1d1c)
+![second](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/a83fb4af-df34-4d11-801f-c469f6085bbc)
+![third](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/f957fe31-ccab-4a8b-b954-9f1526768c4d)
