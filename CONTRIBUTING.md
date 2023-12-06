@@ -87,3 +87,10 @@ $ git push origin new_button
 ```
 
 이제 Pull Request를 보낼 준비가 완료되었습니다. Fork된 레포지토리로 이동하여 Pull Request를 보내주세요.
+
+
+원작자는 아래 링크에서 확인하실 수 있습니다.
+```
+Origin Repo: https://github.com/seohyun0120/Quick-Sook
+Origin: 숙명여대 웨일 확장앱(퀵숙 Quick Sookmyung) - https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai
+```
