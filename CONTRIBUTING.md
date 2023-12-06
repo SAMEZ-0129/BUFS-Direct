@@ -4,7 +4,7 @@
 ### 1. issue 확인
 
 - 먼저 작업을 진행하기 전에, [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues)목록을 확인해주세요.
-- [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues) 목록에 있다면, 댓글을 남겨주세요. 아래 형식에 맞춰 댓글을 남겨주시면, 빠른 시간내에 확인 후, 이슈 `assign` 해드리겠습니다.
+- [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues) 목록에 있다면, 댓글을 남겨주세요. 확인 후 전달드리겠습니다.
 - [이슈](https://github.com/SAMEZ-0129/BUFS-Direct/issues) 목록에 없는 기능이라면, `New issue` 버튼을 클릭하여 이슈를 등록해주세요.
 
 ### 2. Pull Request
