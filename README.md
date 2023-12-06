@@ -40,5 +40,3 @@
 ![NOMAD](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/0d776a81-6f52-4263-907c-1a24859a1d1c)
 ![second](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/a83fb4af-df34-4d11-801f-c469f6085bbc)
 ![third](https://github.com/SAMEZ-0129/BUFS-Direct/assets/81644075/f957fe31-ccab-4a8b-b954-9f1526768c4d)
-
-
