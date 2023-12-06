@@ -9,7 +9,7 @@
 
 ### 2. Pull Request
 
-PR을 보내는 프로세스는 매우 간단합니다!
+Pull 요청방법
 
 1. 현재 레포 `fork`하기
 2. 새 브랜치 만들기
@@ -27,7 +27,7 @@ PR을 보내는 프로세스는 매우 간단합니다!
 PR을 보내기 위해 fork한 레포지토리에서 브랜치를 만들어주세요. 브랜치 이름은 수정하려는 내용을 간단하게 표현해주세요. 따로 컨벤션은 없습니다. 자유롭게 써주세요.
 
 ```
-$ git checkout -b add-new-quick-button
+$ git checkout -b new_button
 ```
 
 #### Step 3: 개발하기
@@ -71,25 +71,19 @@ $ git rebase upstream/master
 
 수정한 부분이 잘 동작하는지 테스트하는 방법은 다음과 같습니다.
 
-- 웨일 브라우저
+- 웨일 브라우저 확장앱 관리자 사이트로 이동
     ```
-    whale://extensions
+    whale://extensions/
     ```
 
-브라우저에서 다음 주소로 이동한 후, `Load unpacked` 버튼을 클릭해서 현재 개발중인 폴더를 올려서 테스트해보세요.
+브라우저에서 다음 주소로 이동한 후, `압축해제 된 확장앱 설치` 버튼을 클릭해서 현재 개발중인 폴더를 올려서 테스트해보세요.
 
 #### Step 6: Pull-Request-보내기
 
 변경 내용을 clone한 레포지토리에 push합니다.
 
 ```
-$ git push origin add-new-quick-button
+$ git push origin new_button
 ```
 
-이제 Pull Request를 보낼 준비가 완료되었습니다. Fork된 레포지토리로 이동하여 Pull Request를 보내주세요!
-
-### 3. Merge PR!
-
-여기서부터는 maintainer가 진행할 차례입니다. 코드 리뷰를 진행한 후, develop 브랜치에 merge를 하게 됩니다. develop 브랜치에 올라온 내용을 whale에 심사를 맡긴 후, 심사가 통과되면 master 브랜치로 merge 하게 됩니다.
-
-
+이제 Pull Request를 보낼 준비가 완료되었습니다. Fork된 레포지토리로 이동하여 Pull Request를 보내주세요.
