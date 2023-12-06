@@ -24,7 +24,7 @@ Pull 요청방법
 
 #### Step 2: 새-브랜치-만들기
 
-PR을 보내기 위해 fork한 레포지토리에서 브랜치를 만들어주세요. 브랜치 이름은 수정하려는 내용을 간단하게 표현해주세요. 따로 컨벤션은 없습니다. 자유롭게 써주세요.
+PR을 보내기 위해 fork한 레포지토리에서 브랜치를 만들어주세요. 브랜치 이름은 수정하려는 내용을 간단하게 표현해주세요.
 
 ```
 $ git checkout -b new_button
@@ -43,7 +43,7 @@ $ git commit
 
 #### Step 4: Upstream으로부터-rebase하기
 
-Pull Request를 보내기 전에 upstream 소스를 rebase 해야 합니다. 이를 통해 최신 코드를 가져와 conflict을 피할 수 있습니다.
+Pull Request를 보내기 전에 upstream 소스를 rebase 해야 합니다. 이를 통해 최신 코드를 가져와 충돌을 피할 수 있습니다.
 
 먼저 remote 저장소를 확인합니다.
 
