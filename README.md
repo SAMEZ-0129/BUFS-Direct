@@ -11,6 +11,7 @@
 **웨일브라우저**를 사용하는 **부산외대 학생**들을 위해 확장앱을 만들었습니다.
 
 - [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/nhodofdbibnmlogigopbomcbglijkgjm)
+- 크롬 브라우저 검수 중
 
 ## 저작권
 
