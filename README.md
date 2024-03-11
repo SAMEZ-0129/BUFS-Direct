@@ -8,7 +8,7 @@
 | whale   | v1.0 | 2023.12.05 |
 | whale   | v1.0.1 | 2023.12.08 |
 
-**웨일브라우저/크롬**를 사용하는 **부산외대 학생**들을 위해 확장앱을 만들었습니다.
+**웨일브라우저/크롬**을 사용하는 **부산외대 학생**들을 위해 확장앱을 만들었습니다.
 
 - [웨일 확장앱 다운로드](https://store.whale.naver.com/detail/nhodofdbibnmlogigopbomcbglijkgjm)
 - [크롬 확장앱 다운로드](https://chromewebstore.google.com/detail/quick-bufs/fhimegkpmcmoaahliodacoggamemcjdp?hl=ko&authuser=1)
