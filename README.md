@@ -23,8 +23,8 @@
 
 ## 기여
 
-- 대상: **부산외국어대학교 학생**이라면 누구나!
-- 참여 방법: [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해주세요.
+- 대상: **부산외국어대학교 학생**이라면 아무나 가능합니다.
+- 참여 방법: [CONTRIBUTING.md](CONTRIBUTING.md)를 확인해주세요.
 
 ## 주요 기능
 
