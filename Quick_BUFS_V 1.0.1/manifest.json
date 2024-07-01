@@ -4,14 +4,15 @@
     "version": "1.0.1",		
     "description": "부산외국어대학교 재학생들이 많이 사용하는 사이트 모음집!", 
     "icons": {
-      "16": "./icons/16logo.png",
-      "48": "./icons/48logo.png",
-      "128": "./icons/128logo.png"	
+      "16": "스토어 로고.jpg"
+      // "48": "./icons/48logo.png",
+      // "128": "./icons/128logo.png"	
     },
     "action": {
       "default_popup": "./popup/index.html",
       "default_icon": {
-        "16": "./icons/16logo.png"	
+        // "16": "./icons/16logo.png"	
+        "16":"스토어 로고.jpg"
       }
     },
     "permissions": [

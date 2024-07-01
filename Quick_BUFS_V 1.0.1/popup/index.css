@@ -119,9 +119,9 @@ div.the-end:hover {
     border-radius   : 5px;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     div.the-end:hover {
         background-color: #8ab6e9;
-        border-radius   : 5px;
+        border-radius   : 10px;
     }
 }
