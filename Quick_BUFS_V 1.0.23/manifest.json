@@ -2,14 +2,10 @@
     "manifest_version": 3,	
     "name": "Quick BUFS",
     "version": "1.0.23",		
-    "description": "부산외국어대학교 재학생들이 많이 사용하는 사이트 모음집!", 
-    "icons": {
-      "16": "스토어 로고.jpg"
-    },
     "action": {
       "default_popup": "./popup/index.html",
       "default_icon": {
-        "16":"스토어 로고.jpg"
+        "16":"store_logo.jpg"
       }
     },
     "permissions": [
