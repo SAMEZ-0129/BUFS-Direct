@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,	
     "name": "Quick BUFS",
-    "version": "1.0.23",		
+    "version": "1.0.24",		
     "action": {
       "default_popup": "./popup/index.html",
       "default_icon": {
